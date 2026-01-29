@@ -1,2 +1,2 @@
-# LinCDN
-Официальный LinCDN server #1
+# LinCDN VGTRK
+Официальный LinCDN VGTRK server #1
