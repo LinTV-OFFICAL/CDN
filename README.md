@@ -1,1 +1,2 @@
-# CDN
+# LinIPTV CDN
+Это cdn server LinIPTV
