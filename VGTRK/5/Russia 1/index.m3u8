@@ -1,0 +1,13 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio192000aac",NAME="Russian",LANGUAGE="ru",DEFAULT=YES,AUTOSELECT=YES,URI="https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/track_1001_283b0546/chunklist.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2486766,RESOLUTION=1024x576,AUDIO="audio192000aac",FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/track_101_283b0546/chunklist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3727158,RESOLUTION=1024x576,AUDIO="audio192000aac",FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/track_102_283b0546/chunklist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5120810,RESOLUTION=1024x576,AUDIO="audio192000aac",FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/track_103_283b0546/chunklist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6953810,RESOLUTION=1280x720,AUDIO="audio192000aac",FRAME-RATE=25.000,CODECS="avc1.64001f,mp4a.40.2"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/track_104_283b0546/chunklist.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=12242332,RESOLUTION=1920x1080,AUDIO="audio192000aac",FRAME-RATE=25.000,CODECS="avc1.640028,mp4a.40.2"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/5/russia1-hd/track_105_283b0546/chunklist.m3u8
