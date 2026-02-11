@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=SUBTITLES,GROUP-ID="subs",NAME="русский",LANGUAGE="ru",DEFAULT=YES,AUTOSELECT=YES,URI="https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/rus_subs.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=1777991,AVERAGE-BANDWIDTH=1666908,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=25.000,SUBTITLES="subs"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/1399200_576p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2513933,AVERAGE-BANDWIDTH=2255742,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=25.000,SUBTITLES="subs"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/2081200_576p.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1119600,AVERAGE-BANDWIDTH=1038039,CODECS="avc1.4d401f,mp4a.40.2",RESOLUTION=1024x576,FRAME-RATE=25.000,SUBTITLES="subs"
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/nigniynovgorod/russia1-sd/792000_576p.m3u8
