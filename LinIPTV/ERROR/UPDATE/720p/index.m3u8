@@ -1,0 +1,11 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:15
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:15.0,
+http://lincdn.2bd.net/LinIPTV/ERROR/UPDATE/720p/video/1.ts
+#EXTINF:15.0,
+http://lincdn.2bd.net/LinIPTV/ERROR/UPDATE/720p/video/2.ts
+#EXTINF:15.0,
+http://lincdn.2bd.net/LinIPTV/ERROR/UPDATE/720p/video/3.ts
+#EXT-X-ENDLIST
