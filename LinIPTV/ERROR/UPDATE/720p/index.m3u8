@@ -3,9 +3,9 @@
 #EXT-X-VERSION:3
 #EXT-X-MEDIA-SEQUENCE:0
 #EXTINF:15.0,
-http://lincdn.2bd.net/LinIPTV/ERROR/UPDATE/720p/video/1.ts
+http://cdnliniptv.2bd.net/LinIPTV/ERROR/UPDATE/720p/video/1.ts
 #EXTINF:15.0,
-http://lincdn.2bd.net/LinIPTV/ERROR/UPDATE/720p/video/2.ts
+http://cdn.liniptv.2bd.net/LinIPTV/ERROR/UPDATE/720p/video/2.ts
 #EXTINF:15.0,
-http://lincdn.2bd.net/LinIPTV/ERROR/UPDATE/720p/video/3.ts
+http://cdn.liniptv.2bd.net/LinIPTV/ERROR/UPDATE/720p/video/3.ts
 #EXT-X-ENDLIST
